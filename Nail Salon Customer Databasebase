@@ -1,3 +1,5 @@
+A customer/client database for a small nail salon 
+
 Create Table NailSalon Customers,
 (CustomerID int, 
 FirstName varchar(50), 
